@@ -1,0 +1,119 @@
+.main-container{
+    background-image: linear-gradient(to right,#ffffcc,#ff99cc);
+    padding: 0px;
+    margin: 0px;
+    
+}
+.nav-list{
+    background-color: #F28B81;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    text-decoration: none;
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+nav a {
+    text-decoration: none;
+    color:black;
+}
+.image-icon{
+    height: 25px;
+    width: 20px;
+}
+
+.body-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.text-content-container {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    width: 50vw;
+    margin-left: 50px;
+}
+
+.image-container{
+    width: 50vw;
+}
+.burger-plate{
+    height: 650px;
+    width: 665px;
+    margin-right: 0px;
+}
+.section-divider {
+    width: 100%;
+    margin-top: 0px;
+    border: none;
+    border-top: 7px solid #ccc; /* Adjust the color as needed */
+}
+
+.second-page{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+.width-image{
+    height: 250px;
+    width: 300px;
+    margin: 10px;
+}
+.height-image{
+    height: 525px;
+    width: 300px;
+    margin: 10px;
+}
+.images-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.width-image-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.button-click{
+    background-color: #FF7D7D;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding: 10px;
+    color: #ffffff;
+    border: 0px;
+}
+.content-container{
+    background-color: #F25454;
+    padding: 20px;
+}
+.arrow{
+    height: 20px;
+    width: 30px;
+}
+.close-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.heading{
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 3px;
+
+}
+.head{
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 3px;
+
+}
